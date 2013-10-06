@@ -5,13 +5,13 @@ This is very basic WP widget which I use in my themes to display the latest phot
 
 It doesn't come with any CSS styling, just 2 JavaScript files are loaded and there are just 2 options:
 
-*	which ID to fetch the images from and
+*	which Flickr ID to fetch the images from and
 *	how many of the images to display (1 to 10)
 
 Installation
 ------------
 
-Clone this repository (or download zipball and unzip it) to your plugins directory (usually `wp-content/plugins`) and activate it over the wp-admin.
+Clone this repository (or download zipball and unzip it) to your plugins directory in the folder `proteusthemes-flickr-gallery-widget` (usually `wp-content/plugins/proteusthemes-flickr-gallery-widget`) and activate it over the wp-admin.
 
 Customizations
 --------------
@@ -23,7 +23,7 @@ Credits
 
 * JavaScript library created by [Joel Sutherland](http://www.gethifi.com/blog/a-jquery-flickr-feed-plugin)
 
-Created By
+Created by
 ----------
 
 [@primozcigler](http://twitter.com/primozcigler) from [ProteusThemes](http://www.proteusthemes.com/)
