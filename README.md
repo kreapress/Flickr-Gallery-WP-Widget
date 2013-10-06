@@ -18,6 +18,12 @@ Customizations
 
 In the file `js/custom.js` you will find the jQuery plugin `jflickrfeed` called. You can customize the output markup and customize the plugin by your needs, the detailed instructions and the demo can be found [on this original post by Joel Sutherland](http://www.gethifi.com/blog/a-jquery-flickr-feed-plugin).
 
+Found a bug, want more features?
+--------------------------------
+
+This is my first public repository really, so the code might not be the best. If you miss something, found a bug or just want to say thank you, you're welcome to open an [issue](https://github.com/primozcigler/Flickr-Gallery-WP-Widget/issues).
+
+
 Credits
 -------
 
