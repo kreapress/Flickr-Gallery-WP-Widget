@@ -1,7 +1,7 @@
 <?php 
 /**
  * Plugin Name: Flickr Gallery Widget
- * Plugin URI: http://URI_Of_Page_Describing_Plugin_and_Updates
+ * Plugin URI: https://github.com/primozcigler/Flickr-Gallery-WP-Widget
  * Description: Displays a simple gallery from Flickr
  * Version: 1.0.0
  * Author: Primož Cigler, @primozcigler
